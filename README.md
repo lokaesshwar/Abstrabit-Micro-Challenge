@@ -1,9 +1,9 @@
-Smart Bookmark Manager (Harry Potter Themed)
+## Smart Bookmark manager (Harry Potter Themed)
 
 A full-stack bookmark management application built with Next.js 14 (App Router), Supabase, and deployed on Vercel.
 
-**Live URL:** _Add your Vercel URL here_  
-**GitHub:** _Add your GitHub repo link here_
+**Live URL:** https://smart-bookmarks-harrypotter-two.vercel.app/ 
+
 
 ---
 
